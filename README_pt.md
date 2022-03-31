@@ -15,9 +15,9 @@
 </p>
 <br />
 
-# <img src="https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/unsap-icon.png" height="21px"> A Iniciativa [United Sapiens](https://www.united-sapiens.org)
+# <img src="https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/unsap-icon.png" height="21px"> A Iniciativa [Sapiens Unidos](https://www.united-sapiens.org)
 
-<p align="justify">Ao longo desta terrível pandemia, o tenebroso número de mortes nos lembrou que a vida humana é como uma vela acesa bastando um sopro para apagar. Diante disso, resolvi colocar em prática um sonho antigo de criar uma <b>ONG</b> (Organização Não Governamental) na área de direitos humanos. O nome da iniciativa é <b>United Sapiens</b> - a ideia é atuar no âmbito global.</p>
+<p align="justify">Ao longo desta terrível pandemia, o tenebroso número de mortes nos lembrou que a vida humana é como uma vela acesa bastando um sopro para apagar. Diante disso, resolvi colocar em prática um sonho antigo de criar uma <b>ONG</b> (Organização Não Governamental) na área de direitos humanos. O nome da iniciativa é <b>Sapiens Unidos</b> - a ideia é atuar no âmbito global.</p>
 
 ```
      NÓS SOMOS SAPIENS
