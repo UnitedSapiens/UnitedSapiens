@@ -1,6 +1,5 @@
 ![UnitedSapiens Banner](https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/profile-banner_1500x400.png)
 
-<p align="right">:brazil: <a href="https://github.com/UnitedSapiens/UnitedSapiens/blob/main/README_pt.md">Português</a></p>
 
 # <img src="https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/hand-waving.gif" width="30px"> Hello World!
 
@@ -14,6 +13,7 @@
     <a href="https://scratch.mit.edu/users/United_Sapiens" target="_blank"><img src="https://img.shields.io/badge/scratch-%234D97FF.svg?&style=for-the-badge&logo=scratch&logoColor=white" height=25></a>
 </p>
 <br />
+
 
 # <img src="https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/unsap-icon.png" height="21px">  The [United Sapiens](https://united-sapiens.github.io/) Initiative
 
@@ -33,6 +33,7 @@
 
 <p align="justify">I created a <a href="https://github.com/United-Sapiens" target="_blank">GitHub Organization</a> to host the initiative's work. I'll try to contribute with what I know how to do, programming and making free / open source software available. You can also contribute, but only if you want to...</p>
 <br />
+
 
 - - -
 
