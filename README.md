@@ -1,10 +1,10 @@
 ![UnitedSapiens Banner](https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/en-banner.jpg)
 
-<p align="right">:brazil: <a href="https://github.com/UnitedSapiens/UnitedSapiens/blob/main/README_pt.md">Portugu�s</a></p>
+<p align="right">:brazil: <a href="#ptBR">Português</a></p>
 
 # <img src="https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/hand-waving.gif" width="30px"> Hello World!
 
-<p align="justify">Welcome to my page on GitHub! My name is <b>Lauro</b> and I currently live in this surreal country we call <b>Brazil</b>. I have a degree in Information Technology (Full Stack Developer) and I work in the Business Intelligence segment as a <b>Machine Learning Engineer</b>. You can contact me on the social networks below, except Facebook of course. If you use facebook, the most toxic of social networks, then consider watching this series produced by the newspaper "The New York Times": <a href="https://www.nytimes.com/interactive/2019/09/23/opinion/data-privacy-jaron-lanier.html" target="_blank">JARON LANIER FIXES THE INTERNET</a>.</p>
+<p id="enUS" align="justify">Welcome to my page on GitHub! My name is <b>Lauro</b> and I currently live in this surreal country we call <b>Brazil</b>. I have a degree in Information Technology (Full Stack Developer) and I work in the Business Intelligence segment as a <b>Machine Learning Engineer</b>. You can contact me on the social networks below, except Facebook of course. If you use facebook, the most toxic of social networks, then consider watching this series produced by the newspaper "The New York Times": <a href="https://www.nytimes.com/interactive/2019/09/23/opinion/data-privacy-jaron-lanier.html" target="_blank">JARON LANIER FIXES THE INTERNET</a>.</p>
 
 <p>
     <a href="https://twitter.com/United_Sapiens" target="_blank"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> &nbsp;
@@ -39,3 +39,10 @@
 - - -
 
 <h4 align="right">:vulcan_salute:&nbsp; Live Long and Prosper!</h4>
+
+
+<p align="right">:uk: <a href="#enUS">English</a></p>
+
+
+<p id="ptBR" align="justify">Bem-vindo à minha página no GitHub! Meu nome é <b>Lauro</b> e atualmente eu moro neste surreal país que chamamos de <b>Brasil</b>. Sou formado na área de Tecnologia da Informação (Full Stack Developer) e atuo no segmento de Business Intelligence como <b>Engenheiro de Machine Learning</b>. Você pode me contactar nas redes sociais abaixo, exceto Facebook claro. Se você usa facebook, a mais tóxica entre as redes sociais, então considere assistir a esse vídeo/documentário produzido pelo canal "Meteoro Brasil": <a href="https://www.youtube.com/watch?v=pIa-RE36yCw" target="_blank">10 RAZÕES PARA DELETAR SUAS REDES SOCIAIS</a>.</p>
+
