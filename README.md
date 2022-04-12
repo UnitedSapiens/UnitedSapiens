@@ -1,4 +1,4 @@
-![UnitedSapiens Banner](https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/profile-banner_1500x400.png)
+![UnitedSapiens Banner](https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/en-banner.jpg)
 
 
 # <img src="https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/hand-waving.gif" width="30px"> Hello World!
