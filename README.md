@@ -13,7 +13,7 @@
 <br />
 
 
-# <img src="https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/unsap-icon.png" height="21px">  The [United Sapiens](https://united-sapiens.github.io/) Initiative
+# <img src="https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/unsap-icon.png" height="21px">  The [United Sapiens](https://www.united-sapiens.org) Initiative
 
 <p align="justify">Throughout this terrible pandemic, the immense number of deaths reminded us that human life is like a lit candle, just a blow to extinguish it. In view of this, I decided to put into practice an old dream of creating an <b>NGO</b> (Non-Governmental Organization) in the area of human rights. The name of the initiative is <b>United Sapiens</b> - the idea is to act globally.</p>
 
