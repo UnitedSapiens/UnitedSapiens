@@ -32,8 +32,10 @@
 ```
 
 <p align="justify">I created a <a href="https://github.com/United-Sapiens" target="_blank">GitHub Organization</a> to host the initiative's project. I'll try to contribute with what I know how to do, programming and making free / open source software available. You can also contribute, but only if you want to...</p>
-<br />
+<br /><br />
 
+
+"Do... or do not. There is no try." &nbsp; — &nbsp; Yoda
 
 - - -
 
