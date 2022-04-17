@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/hand-waving.gif" width="30px">&nbsp; Hello World!
 
-<p align="justify">Welcome to my developer page on GitHub! My name is <b>Lauro</b> and I currently live in this surreal country we call <b>Brazil</b>. I have a degree in Information Technology (Full Stack Developer) and I work in the Business Intelligence segment. In my free time, I like to study Data Science and practice Machine Learning using Python. You can contact me on any of the social networks below:</p>
+<p align="justify">Welcome to my developer page on GitHub! My name is <b>Lauro</b> and I currently live in this surreal country we call <b>Brazil</b>. I have a degree in Information Technology (Computer Science) and I work in the Business Intelligence segment as a <b>Full Stack Developer</b>. In my free time, I like to study Data Science and practice Machine Learning using Python. You can contact me on any of the social networks below:</p>
 
 <p>
     <a href="https://twitter.com/United_Sapiens"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32></a> &nbsp;
@@ -17,7 +17,7 @@
 
 # <img src="https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/unsap-icon.png" height="22px">&nbsp; The [United Sapiens](https://www.united-sapiens.org) Initiative
 
-<p align="justify">Throughout this terrible pandemic, the immense number of deaths reminded us that human life is like a burning candle, just a blow to extinguish it. In view of this, I decided to put into practice an old dream of creating an <b>NGO</b> (Non-Governmental Organization) in the area of human rights. The name of the initiative is <b>United Sapiens</b> - the idea is to act globally. My main goal would be to support the United Nations' efforts to find peaceful solutions to international conflicts and political rivalries.</p>
+<p align="justify">Throughout this terrible pandemic, the immense number of deaths reminded us that human life is like a burning candle, just a blow to extinguish it. In view of this, I decided to put into practice an old dream of creating an <b>NGO</b> (Non-Governmental Organization) in the area of human rights. The name of the initiative is <b>United Sapiens</b> - the idea is to act globally. My main goal would be to support the <b>United Nations</b>' efforts to find peaceful solutions to international conflicts and political rivalries.</p>
 
 ```
      WE ARE SAPIENS
