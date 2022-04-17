@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/united-sapiens/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32></a>
 </p>
 
- <p align="justify">By the way, you will not see my full name, birth date, home address, family photos, or any other personal data on these social networks. This is not public information that can be collected and sold by those big tech companies. You also won't see me using Facebook, the most toxic of all social networks — nor would I ever install their apps on my phone. If you use Facebook, or if you post your personal data on any social media, then consider watching this series produced by the newspaper "The New York Times": <a href="https://www.nytimes.com/interactive/2019/09/23/opinion/data-privacy-jaron-lanier.html" target="_blank">JARON LANIER FIXES THE INTERNET</a>.</p>
+ <p align="justify">By the way, you will not see my full name, birth date, home address, family photos, or any other personal data on these social networks. This is not public information that can be collected and sold by those big tech companies. You also won't see me using Facebook, the most toxic of all social networks — nor would I ever install any social network app on my phone. If you use Facebook, or if you post your personal data on any social media, then consider watching this series produced by the newspaper "The New York Times": <a href="https://www.nytimes.com/interactive/2019/09/23/opinion/data-privacy-jaron-lanier.html">JARON LANIER FIXES THE INTERNET</a>.</p>
 <br />
 
 
@@ -31,12 +31,12 @@
      ONE FOR ALL AND ALL FOR ONE
 ```
 
-<p align="justify">I created a <a href="https://github.com/United-Sapiens" target="_blank">GitHub Organization</a> to host the initiative's project. I'll try to contribute with what I know how to do, programming and making free / open source software available. You can also contribute, but only if you want to...</p>
+<p align="justify">I created a <a href="https://github.com/United-Sapiens">GitHub Organization</a> to host the initiative's project. I'll try to contribute with what I know how to do, programming and making free / open source software available. You can also contribute, but only if you want to...</p>
 <br /><br />
 
 
-"Do... or do not. There is no try." &nbsp; — &nbsp; Yoda
+"Do... or do not. There is no try." &nbsp; — &nbsp; <a href="https://en.wikipedia.org/wiki/Yoda">Yoda</a>
 
 - - -
 
-<h4 align="right">:vulcan_salute:&nbsp; Live Long and Prosper!</h4>
+<h4 align="right">:vulcan_salute:&nbsp; Live Long and Prosper.</h4>
