@@ -43,8 +43,8 @@
 
 
 
-- ♈︎ :aries: Project Aries: March 21 – April 19 :ok:
-- ♉︎ :taurus: Project Taurus: April 20 – May 20
+- ♈︎ :aries: Project Aries: March 21 – April 19 &nbsp; &nbsp; :ok: &nbsp; &nbsp; :heavy_check_mark:
+- ♉︎ :taurus: Project Taurus: April 20 – May 20 &nbsp; &nbsp; :white_check_mark:
 - ♊︎ :gemini: Project Gemini: May 21 – June 21
 - ♋︎ :cancer: Project Cancer: June 22 – July 22
 - ♌︎ :leo: Project Leo: July 23 – August 22
