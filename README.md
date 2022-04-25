@@ -42,7 +42,7 @@
 <p align="justify">The Project Management Institute (<a href="https://www.pmi.org/">www.pmi.org</a>) defines a program as a group of related projects managed in a coordinated way to obtain benefits and control not available from managing them individually. Programs may contain elements of work outside of the scope of the discrete projects in the program. The Zodiac Program is a set of projects that I stated last March and intend to complete in one year.</p>
 
 - :aries: Project Aries (March 21 – April 19): &nbsp; The United Sapiens [landing page](https://www.united-sapiens.org/) &nbsp; &nbsp; :heavy_check_mark:
-- :taurus: Project Taurus: April 20 – May 20
+- :taurus: Project Taurus [April 20 – May 20]: &nbsp; Political Spectrum Test
 - :gemini: Project Gemini: May 21 – June 21
 - :cancer: Project Cancer: June 22 – July 22
 - :leo: Project Leo: July 23 – August 22
