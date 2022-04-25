@@ -37,24 +37,22 @@
 <br />
 
 
-# :dizzy: :milky_way: :sun_with_face: :high_brightness: :calendar:  &nbsp; The Zodiac Program
+# :sun_with_face:&nbsp; The Zodiac Program
 
-<p align="justify">The world has become quite chaotic and complex in the last few decades, hyperconnected and fast-changing, yet with a total “bad vibe". After millennia of civilization we still have wars, massacres, genocides, heinous crimes, human rights violations, etc. In my opinion, we have forgotten the most important thing throughout history:&nbsp; WE ARE ALL HOMO SAPIENS, A SINGLE SPECIES OF A SINGLE PEOPLE.</p>
+<p align="justify">The Project Management Institute ([www.pmi.org](https://www.pmi.org/)) defines a program as a group of related projects managed in a coordinated way to obtain benefits and control not available from managing them individually. Programs may contain elements of work outside of the scope of the discrete projects in the program. The Zodiac Program is a set of projects that I stated last March and intend to complete in one year.</p>
 
-
-
-- ♈︎ :aries: Project Aries: March 21 – April 19 &nbsp; &nbsp; :ok: &nbsp; &nbsp; :heavy_check_mark:
-- ♉︎ :taurus: Project Taurus: April 20 – May 20 &nbsp; &nbsp; :white_check_mark:
-- ♊︎ :gemini: Project Gemini: May 21 – June 21
-- ♋︎ :cancer: Project Cancer: June 22 – July 22
-- ♌︎ :leo: Project Leo: July 23 – August 22
-- ♍︎ :virgo: Project Virgo: August 23 – September 22
-- ♎︎ :libra: Project Libra: September 23 – October 22
-- ♏︎ :scorpius: Project Scorpio: October 23 – November 22
-- ♐︎ :sagittarius: Project Sagittarius: November 23 – December 21
-- ♑︎ :capricorn: Project Capricorn: December 22 – January 19
-- ♒︎ :aquarius: Project Aquarius: January 20 – February 18
-- ♓︎ :pisces: Project Pisces: February 19 – March 20
+- :aries: Project Aries: March 21 – April 19 &nbsp; &nbsp; :heavy_check_mark:
+- :taurus: Project Taurus: April 20 – May 20
+- :gemini: Project Gemini: May 21 – June 21
+- :cancer: Project Cancer: June 22 – July 22
+- :leo: Project Leo: July 23 – August 22
+- :virgo: Project Virgo: August 23 – September 22
+- :libra: Project Libra: September 23 – October 22
+- :scorpius: Project Scorpio: October 23 – November 22
+- :sagittarius: Project Sagittarius: November 23 – December 21
+- :capricorn: Project Capricorn: December 22 – January 19
+- :aquarius: Project Aquarius: January 20 – February 18
+- :pisces: Project Pisces: February 19 – March 20
 <br /><br />
 
 
