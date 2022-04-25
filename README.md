@@ -34,6 +34,27 @@
 ```
 
 <p align="justify">I created a <a href="https://github.com/United-Sapiens">GitHub Organization</a> to host the initiative's project. I'll try to contribute with what I know how to do, programming and making free / open source software available. You can also contribute, but only if you want to...</p>
+<br />
+
+
+# :dizzy: :milky_way: :sun_with_face: :high_brightness: :calendar:  &nbsp; The Zodiac Program
+
+<p align="justify">The world has become quite chaotic and complex in the last few decades, hyperconnected and fast-changing, yet with a total “bad vibe". After millennia of civilization we still have wars, massacres, genocides, heinous crimes, human rights violations, etc. In my opinion, we have forgotten the most important thing throughout history:&nbsp; WE ARE ALL HOMO SAPIENS, A SINGLE SPECIES OF A SINGLE PEOPLE.</p>
+
+
+
+- ♈︎ :aries: Project Aries: March 21 – April 19 :ok:
+- ♉︎ :taurus: Project Taurus: April 20 – May 20
+- ♊︎ :gemini: Project Gemini: May 21 – June 21
+- ♋︎ :cancer: Project Cancer: June 22 – July 22
+- ♌︎ :leo: Project Leo: July 23 – August 22
+- ♍︎ :virgo: Project Virgo: August 23 – September 22
+- ♎︎ :libra: Project Libra: September 23 – October 22
+- ♏︎ :scorpius: Project Scorpio: October 23 – November 22
+- ♐︎ :sagittarius: Project Sagittarius: November 23 – December 21
+- ♑︎ :capricorn: Project Capricorn: December 22 – January 19
+- ♒︎ :aquarius: Project Aquarius: January 20 – February 18
+- ♓︎ :pisces: Project Pisces: February 19 – March 20
 <br /><br />
 
 
