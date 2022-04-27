@@ -2,13 +2,14 @@
 
 # <img src="https://raw.githubusercontent.com/UnitedSapiens/UnitedSapiens/main/assets/hand-waving.gif" width="30px">&nbsp; Hello World!
 
-<p align="justify">Welcome to my developer page on GitHub! My name is <b>Lauro</b> and I currently live in this surreal country we call <b>Brazil</b>. I have a degree in Information Technology (Computer Science) and I work in the Business Intelligence segment as a <b>Full Stack Developer</b>. In my free time, I like to study Data Science and practice Machine Learning using Python. You can contact me on any of the social networks below:</p>
+<p align="justify">Welcome to my developer page on GitHub! My name is <b>Lauro</b> and I currently live in this surreal country we call <b>Brazil</b>. I have a degree in Information Technology (Computer Science) and I work in the Business Intelligence segment as a <b>Full Stack Developer</b>. In my free time, I like to study Data Science and practice Machine Learning using Python. You can contact me on any of the social networks below. Your comments and suggestions are always welcome.</p>
 
 <p>
     <a href="https://twitter.com/United_Sapiens"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32></a> &nbsp;
-    <a href="https://www.instagram.com/united_sapiens"><img src="https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32></a> &nbsp;
     <a href="https://www.reddit.com/user/united_sapiens"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=32></a> &nbsp;
-    <a href="https://www.linkedin.com/in/united-sapiens/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32></a>
+    <a href="https://www.instagram.com/united_sapiens"><img src="https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32></a> &nbsp;
+    <a href="https://www.youtube.com/channel/UC_P9YRTAJArvjE-68gPVfYg"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=32></a>
+    <a href="https://www.linkedin.com/in/united-sapiens"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32></a>
 </p>
 
  <p align="justify">By the way, you will not see my full name, birth date, home address, family photos, or any other personal data on these social networks. This is not public information that can be collected and sold by those big tech companies. You also won't see me using Facebook, the most toxic of all social networks — nor would I ever install any social network app on my phone. If you use Facebook, or if you post your personal data on any social media, then consider watching this series produced by the newspaper "The New York Times": <a href="https://www.nytimes.com/interactive/2019/09/23/opinion/data-privacy-jaron-lanier.html">JARON LANIER FIXES THE INTERNET</a>.</p>
