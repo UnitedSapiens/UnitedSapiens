@@ -40,7 +40,7 @@
 
 # :hash:&nbsp; The Cardinal Program
 
-<p align="justify">The Project Management Institute (<a href="https://www.pmi.org/">www.pmi.org</a>) defines a program as <i>"a group of related projects managed in a coordinated way to obtain benefits and control not available from managing them individually; programs may contain elements of work outside of the scope of the discrete projects in the program"</i>. The <b>Cardinal Program</b> is a series of projects that I started last March and that I intend to complete over the course of two years (2022 – 2023).</p>
+<p align="justify">The Project Management Institute (<a href="https://www.pmi.org/">www.pmi.org</a>) defines a program as <i>"a group of related projects managed in a coordinated way to obtain benefits and control not available from managing them individually; programs may contain elements of work outside of the scope of the discrete projects in the program"</i>. The <b>Cardinal Program</b> is a series of projects that I started last March and that I intend to complete over the course of the next few years.</p>
 
 - :zero: Project Zero (March/2022 – April/2022) : &nbsp; [United Sapiens Landing Page](https://www.united-sapiens.org/) &nbsp; &nbsp; :heavy_check_mark:
 - :one: Project One (April/2022 – ...) : &nbsp; Political Spectrum Test
