@@ -5,10 +5,8 @@
 <p align="justify">Welcome to my developer page on GitHub! My name is <b>Lauro</b> and I currently live in this surreal country we call <b>Brazil</b>. I have a degree in Information Technology (Computer Science) and I work in the Business Intelligence segment as a <b>Full Stack Developer</b>. In my free time, I like to study Data Science and practice Machine Learning using Python. You can contact me on any of the social networks below. Your comments and suggestions are always welcome.</p>
 
 <p>
-    <a href="https://twitter.com/United_Sapiens"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32></a> &nbsp;
-    <a href="https://www.reddit.com/user/united_sapiens"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=32></a> &nbsp;
-    <a href="https://www.instagram.com/united_sapiens"><img src="https://img.shields.io/badge/instagram-%23C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=32></a> &nbsp;
-    <a href="https://www.youtube.com/channel/UC_P9YRTAJArvjE-68gPVfYg"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=32></a> &nbsp;
+    <a href="https://twitter.com/United_Sapiens"><img src="https://img.shields.io/badge/twitter-%23009DF7.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32></a> &nbsp;&nbsp;
+    <a href="https://www.reddit.com/user/united_sapiens"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" height=32></a> &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/united-sapiens"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32></a>
 </p>
 
